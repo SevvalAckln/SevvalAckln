@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevvalackln&label=Profile%20views&color=0e75b6&style=flat" alt="sevvalackln" /> </p>
 
-- 🌱 I’m currently learning **AI, Data Mining, Backend Development**
+- 🌱 I’m currently improving myself on **Data Analysis, Data Science, AI, Data Mining**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SevvalAckln](https://github.com/SevvalAckln)
 
